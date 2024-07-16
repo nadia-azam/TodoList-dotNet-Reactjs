@@ -1,0 +1,193 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+}
+
+th, td {
+  padding: 16px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #007BFF;
+  color: white;
+}
+
+td {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #e9e9e9;
+}
+
+.search-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.search-container.button-Search{
+  background: #007BFF;
+  padding: 10px 20px;
+ 
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #333;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+}
+
+.icon-button {
+  
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  margin: 0 5px;
+  transition: color 0.3s;
+ 
+}
+
+.icon-button.edit-button {
+  color: #2828a7;
+}
+.icon-button.edit-button:hover {
+  background-color: #ddd;
+}
+
+.icon-button.delete-button:hover{
+  background-color: #ddd;
+}
+
+.icon-button.delete-button{
+  color: #dc3545;
+}
+
+.icon-button.edit-button:active {
+  color: #28a745;
+}
+
+.icon-button.delete-button:active {
+  color: #dc3545;
+}
+
+
+
+.edit-todo-form {
+  max-width: 600px; /* Limite la largeur du formulaire pour le rendre plus lisible */
+  margin: auto; /* Centre le formulaire horizontalement */
+  padding: 20px; /* Ajoute un espace autour du formulaire */
+}
+
+.form-input,
+.form-textarea,
+.form-button {
+  width: 100%; /* Remplit la largeur du formulaire pour chaque élément de formulaire */
+  margin-bottom: 10px; /* Ajoute un espace entre chaque élément de formulaire */
+  padding: 8px; /* Ajoute un espace à l'intérieur des champs de formulaire */
+  font-size: 16px; /* Taille de police pour une meilleure lisibilité */
+  border: 1px solid #ccc; /* Ajoute une bordure autour des champs de formulaire */
+  border-radius: 4px; /* Arrondit les coins des champs de formulaire */
+  box-sizing: border-box; /* Inclut les bordures et les rembourrages dans la largeur et la hauteur totales */
+}
+
+.form-button {
+  background-color: #007bff; /* Couleur de fond pour le bouton */
+  color: white; /* Couleur du texte pour le bouton */
+  cursor: pointer; /* Change le curseur en pointeur lorsqu'il survole le bouton */
+  border: none; /* Supprime la bordure du bouton */
+}
+
+.form-button:hover {
+  background-color: #0056b3; /* Change la couleur de fond lors du survol du bouton */
+}

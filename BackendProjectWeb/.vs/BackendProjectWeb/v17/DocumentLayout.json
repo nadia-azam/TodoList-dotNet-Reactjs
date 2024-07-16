@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Stage_PFA\\BackendProjectWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\models\\mytodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\models\\mytodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\controllers\\mytodoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\controllers\\mytodoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\migrations\\20240709162538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\migrations\\20240709162538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|d:\\stage_pfa\\backendprojectweb\\backendprojectweb\\backendprojectweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E94B6AB-AA3C-466D-ABE0-8918AE4E1270}|BackendProjectWeb\\BackendProjectWeb.csproj|solutionrelative:backendprojectweb\\backendprojectweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MytodoesController.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Controllers\\MytodoesController.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Controllers\\MytodoesController.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Controllers\\MytodoesController.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Controllers\\MytodoesController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAswHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:00:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Models\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Models\\TodoDbContext.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Models\\TodoDbContext.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Models\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:20:46.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Program.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Program.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:18:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mytodo.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Models\\Mytodo.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Models\\Mytodo.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Models\\Mytodo.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Models\\Mytodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:29:12.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\appsettings.json",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\appsettings.json",
+              "RelativeToolTip": "BackendProjectWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T15:18:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:39:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240709162538_Initial.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Migrations\\20240709162538_Initial.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Migrations\\20240709162538_Initial.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Migrations\\20240709162538_Initial.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Migrations\\20240709162538_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:25:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BackendProjectWeb\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:57:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackendProjectWeb.csproj",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\BackendProjectWeb.csproj",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\BackendProjectWeb.csproj",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\BackendProjectWeb.csproj",
+              "RelativeToolTip": "BackendProjectWeb\\BackendProjectWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T15:59:55.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendProjectWeb\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Stage_PFA\\BackendProjectWeb\\BackendProjectWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendProjectWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T16:18:22.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
